@@ -2,31 +2,29 @@
 A Post-Apocalyptic Commerce and Killing tabletop game 
 
 
-Outland Scav
-
 You are a Scavenger searching for goods in the radiation blasted wastes of what used to be America.
 
   
 
-INTRODUCTION
+##INTRODUCTION
 
 Board game for 1-4+ players. 
 
   
 
-OBJECT
+##OBJECT
 
 Move from your home Burg through the Outlands trading goods and accumulating “Rep” tokens.
 
   
 
-VICTORY
+##VICTORY
 
 The last player to survive or the player to acquire the most “Rep” Points after 25 turns is the winner.
 
   
 
-SETUP
+##SETUP
 
 1. Starting Burg(Player pawn start position) is selected youngest to oldest. 
 2. Each player Draws 1 Trader Card(player character), 1 weapon card, and 3 Item cards to form their starting hand.  
@@ -41,18 +39,17 @@ SETUP
 5. Play proceeds clockwise with the Youngest Player. 
   
   
-
-GAMEBOARD
+###GAMEBOARD
 
   
 
-BURG MATS
+###BURG MATS
 
 There are 12 Burg mats, each represents
 
   
 
-CARD TYPES
+###CARD TYPES
 
 - Encounter(traps, target and benign) 
     - Target (Hostile and Passive) 
@@ -68,7 +65,7 @@ CARD TYPES
 
   
 
-CHITS AND TOKENS
+###CHITS AND TOKENS
 
 There are Three types of Chit. These tokens can be gained and lost throughout game play. Each type of chit comes in 1, 5 and 10 point denominations.
 
@@ -78,7 +75,7 @@ There are Three types of Chit. These tokens can be gained and lost throughout ga
 - Load - Used to track Players load capacity. Players should start with the number identified by their player card.  
   
 
-OUTLAND TURN SEQUENCE
+###OUTLAND TURN SEQUENCE
 
 The Outland is any space on the game board without a Burg image. There are two Phases to existence in the Outland.
 
@@ -89,14 +86,14 @@ Landing on a Burg results in the Player drawing and completing an Encounter Card
 
   
 
-Burg Turn Sequence(When Turn starts in a Burg)
+###Burg Turn Sequence(When Turn starts in a Burg)
 
 1. Draw Burg Card 
 2. Trade Phase 
 3. Move Phase 
   
 
-MOVEMENT
+###MOVEMENT
 
 Outland Movement is dictated by rolling 1d6 and then moving the player token in any direction on the board.
 
@@ -104,7 +101,7 @@ Regardless of region, if a Player lands in the same board position as another pl
 
   
 
-BATTLE 
+###BATTLE 
 
 1. The Attacker rolls 4d6 and adds its ATK.  
 2. The Defender rolls 4d6 and adds its DEF.  
